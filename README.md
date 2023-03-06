@@ -1,6 +1,6 @@
 <p>A Job Listing Website written in PHP Laravel and Alpine.js.</p>
 
-<img src="https://drive.google.com/file/d/1hbANsJUhmp2q0MauBA6NfLAa1Vg7rBtp/preview">
+<iframe src="https://drive.google.com/file/d/1hbANsJUhmp2q0MauBA6NfLAa1Vg7rBtp/preview" width="640" height="480" allow="autoplay"></iframe>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
