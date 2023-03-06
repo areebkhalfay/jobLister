@@ -37,5 +37,25 @@ class DatabaseSeeder extends Seeder
 //             'website' => 'https://www.apple.com',
 //             'description' => 'An opportunity to join Apple Inc. as a Software Engineer. Apple Inc. is an American multinational technology company headquartered in Cupertino, California, United States.'
 //         ]);
+//
+//        Listing::create([
+//            'title' => 'Product Manager',
+//            'tags' => 'Jira',
+//            'company' => 'Facebook',
+//            'location' => 'Menlo Park, CA',
+//            'email' => 'email3@test.com',
+//            'website' => 'https://www.facebook.com',
+//            'description' => 'Meta Platforms, Inc. is an American multinational technology conglomerate based in Menlo Park, California. The company owns Facebook, Instagram, and WhatsApp, among other products and services.'
+//        ]);
+//
+//        Listing::create([
+//            'title' => 'Lead Software Engineer',
+//            'tags' => 'Java, Spring Boot, React',
+//            'company' => 'Oracle',
+//            'location' => 'Redwood City, CA',
+//            'email' => 'email4@test.com',
+//            'website' => 'https://www.oracle.com',
+//            'description' => 'Oracle Corporation is an American multinational computer technology corporation headquartered in Austin, Texas.'
+//        ]);
     }
 }
